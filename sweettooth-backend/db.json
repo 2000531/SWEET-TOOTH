@@ -1,0 +1,28 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "title": "Classic Chocolate Cake",
+        "description": "A rich and moist chocolate cake recipe.",
+        "ingredients": ["2 cups flour", "2 cups sugar", "¾ cup cocoa powder", "..."],
+        "instructions": "Preheat oven to 350°F...",
+        "image": "[https://via.placeholder.com/300/846050/f8f4f2?Text=Chocolate+Cake](https://via.placeholder.com/300/846050/f8f4f2?Text=Chocolate+Cake)"
+      },
+      {
+        "id": 2,
+        "title": "Simple Sugar Cookies",
+        "description": "Easy and delicious sugar cookies perfect for any occasion.",
+        "ingredients": ["1 cup butter", "1 cup sugar", "1 egg", "..."],
+        "instructions": "Cream together butter and sugar...",
+        "image": "[https://via.placeholder.com/300/ff69b4/f8f4f2?Text=Sugar+Cookies](https://via.placeholder.com/300/ff69b4/f8f4f2?Text=Sugar+Cookies)"
+      },
+      {
+        "id": 3,
+        "title": "Banana Bread",
+        "description": "A comforting and flavorful banana bread.",
+        "ingredients": ["3 ripe bananas", "⅓ cup melted butter", "1 egg", "..."],
+        "instructions": "Preheat oven to 350°F...",
+        "image": "[https://via.placeholder.com/300/846050/f8f4f2?Text=Banana+Bread](https://via.placeholder.com/300/846050/f8f4f2?Text=Banana+Bread)"
+      }
+    ]
+  }
